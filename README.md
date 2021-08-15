@@ -4,7 +4,7 @@
 - The design was created by **"AUTODESK THINKERCAD"** computer software.
 
 ---
-- It consists of five pieces:
+## It consists of five pieces:
 1. Base.
 2. Waist.
 3. Arm 1.
