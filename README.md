@@ -3,6 +3,14 @@
 - The aim of this project is to join the robotic arm parts in the correct place.
 - The design was created by **"AUTODESK THINKERCAD"** computer software.
 
+---
+- It consists of five pieces:
+1. Base.
+2. Waist.
+3. Arm 1.
+4. Arm 2.
+5. Gripper "End effector".
+
 <img width="257" alt="Screen Shot 2021-08-15 at 8 32 05 AM" src="https://user-images.githubusercontent.com/88155243/129468406-73b2dfea-7364-4be7-862b-1ce0eb853941.png">
 
 
